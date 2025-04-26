@@ -1,13 +1,13 @@
-# Internet-Draft Template Repository
+# from Internet-Draft Template Repository
 
-Use this repository as a template if you want to start working on
-[IETF](https://www.ietf.org/) documents. [Click here to create a new repository using the
-template](https://github.com/martinthomson/internet-draft-template/generate).
-Make sure to check "Include all branches", or you will need to enable GitHub Pages manually.
+## openid/iGov repo
+Using Bitbucket and XML for this spec has been frustrating.
+A big PR overwhlmed the [diff](https://bitbucket.org/openid/igov/diff/openid-igov-oauth2-1_0.xml?diff2=8be241f6972540a55d8fe68d4fff0f7428386fd8) so we're about to lose all our incremental changes. 
+We've had major problems with conflicting PRs, even though they don't appear to actually conflict.
 
-[Read the
-instructions](https://github.com/martinthomson/i-d-template/blob/main/doc/TEMPLATE.md)
-for more information.
+This will test to see if GitHub can parse this [PR](https://bitbucket.org/openid/igov/pull-requests/45) better from this point forward.
 
-Once you have created your own repository, start work by
-[renaming the `draft-todo-yourname-protocol.md` file](../../edit/main/draft-todo-yourname-protocol.md).
+Also, we want to 
+- leverage workflows for the xml2rfc build of html and txt
+- start the process of converting to Kramdown/Markdown (script + manual labor)
+- get to WGLC
