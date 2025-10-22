@@ -1,11 +1,8 @@
 ### openid/iGov repo
-Using Bitbucket and XML for this spec has been frustrating.
-A big PR overwhlmed the [diff](https://bitbucket.org/openid/igov/diff/openid-igov-oauth2-1_0.xml?diff2=8be241f6972540a55d8fe68d4fff0f7428386fd8) so we're about to lose all our incremental changes. 
-We've had major problems with conflicting PRs, even though they don't appear to actually conflict.
+Within the iGov WG, we've been talking about shifting to markdown in GitHub from Bitbucket and XML. Not "if", but "when".
+The draft is pasted here.
 
-This will test to see if GitHub can parse this [PR](https://bitbucket.org/openid/igov/pull-requests/45) better from this point forward.
-
-Also, we want to 
-- leverage workflows for the xml2rfc build of html and txt
-- start the process of converting to Kramdown/Markdown (script + manual labor)
-- get to WGLC
+Bitbucket repo: https://bitbucket.org/openid/igov 
+Editors' draft: https://openid.bitbucket.io/iGov/
+OpenID WG page: https://openid.net/wg/igov/
+OpenID listserv: https://lists.openid.net/pipermail/openid-specs-igov/
