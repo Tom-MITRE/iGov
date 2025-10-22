@@ -1,6 +1,6 @@
 ### openid/iGov repo
-Within the iGov WG, we've been talking about shifting to markdown in GitHub from Bitbucket and XML. Not "if", but "when".
-The draft is pasted here.
+Within the iGov WG, we've been talking about shifting to **markdown** in GitHub from Bitbucket and XML.
+
 
 Bitbucket repo: https://bitbucket.org/openid/igov 
 
